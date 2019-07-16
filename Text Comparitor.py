@@ -15,7 +15,7 @@ liststringsP = []
 listwcN = []
 listwcP = []
 aantalfiles = 0
-folder_path = 'C:/Users/Jim/Downloads/Uni/Scriptie - Bachelorproject/Nederlandse Data/*/*' #Here you can enter the path in which your files are placed
+folder_path = 'C:/Users/*' #Here you can enter the path in which your files are placed
 
 def inlezenn ():  #Leest alle N(ieuws) files in
     global aantalfiles
